@@ -1,0 +1,7 @@
+projects: 
+  default:
+    id: 648571 
+  pro: 
+    id: 648574
+requirements: 
+  file: requirements.txt
